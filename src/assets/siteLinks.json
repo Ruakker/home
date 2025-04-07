@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "Blog",
+    "name": "Blog",
+    "link": "https://blog.ruakker.moe/"
+  },
+  {
+    "icon": "Github",
+    "name": "Github",
+    "link": "https://github.com/Ruakker"
+  },
+  {
+    "icon": "Steam",
+    "name": "Steam",
+    "link": "https://steamcommunity.com/id/Ruakker/"
+  }
+]
